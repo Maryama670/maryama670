@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-**Maryama670/maryama670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **AI engineering projects involving FastAPI, Retrieval-Augmented Generation (RAG), LLM agents, and intelligent automation.**
