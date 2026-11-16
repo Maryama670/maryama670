@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Maryama670/maryama670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **My journey into AI started with business analysis and digital transformation, took me through telecommunications engineering and data engineering, and now I'm building intelligent systems that solve real-world problems!**
 
--->
+
